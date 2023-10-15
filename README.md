@@ -44,5 +44,8 @@
 
 </a>
 </div>
+<br>
 
+<div align="center">
 <a href="https://app.daily.dev/guillermovalenzuela"><img src="https://github.com/guillermovalenzuela-dev/guillermovalenzuela-dev/blob/main/devcard.svg" width="300" alt="Guillermo Valenzuela's Dev Card"/></a>
+</div>
