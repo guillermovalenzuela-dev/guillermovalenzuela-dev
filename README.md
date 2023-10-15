@@ -45,4 +45,4 @@
 </a>
 </div>
 
-<a href="https://app.daily.dev/guillermovalenzuela"><img src="https://api.daily.dev/devcards/99063fa288064f5bbf5a8d954687a291.png?r=2wa" width="300" alt="Guillermo Valenzuela's Dev Card"/></a>
+<a href="https://app.daily.dev/guillermovalenzuela"><img src="https://github.com/guillermovalenzuela-dev/guillermovalenzuela-dev/blob/main/devcard.svg" width="300" alt="Guillermo Valenzuela's Dev Card"/></a>
